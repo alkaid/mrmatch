@@ -1,0 +1,3 @@
+Git上的内容不包括cocos2dx框架
+请自行下载cocos2dx框架并将生成的cocos2d目录放至项目根目录下
+cocos2dx版本: cocos2dx 3.2 Final
